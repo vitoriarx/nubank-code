@@ -20,12 +20,12 @@ Diga como essa etapa será:
   Abrir com o Visual Studio Code
 ```
 Até finalizar
-```
+
 
 
 ## 🛠️ Construído com
 
-Ferramentas usadas para criar o projeto
+Ferramentas usadas para criar o projeto:
 
 * HTML
 * CSS
@@ -34,11 +34,9 @@ Ferramentas usadas para criar o projeto
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Um desenvolvedor** - *Trabalho Inicial* - [vitoriarx](https://github.com/vitoriarx)
 
-##Link para teste: https://nubank-code.netlify.app/
+Link para teste: https://nubank-code.netlify.app/
 
 ## 📄 Licença
 
