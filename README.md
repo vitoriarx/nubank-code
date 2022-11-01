@@ -6,9 +6,7 @@ Redesign da página inicial do app nubank
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
-### 📋 Pré-requisitos
+Link para teste: https://nubank-code.netlify.app/
 
 
 
@@ -51,5 +49,5 @@ Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](h
 * Agradeço a todos que contribuíram com o desenvolvimento do projeto
 
 
----
+
 ⌨️ com ❤️ por [Vitoria Regina](https://gist.github.com/vitoriarx) 😊
